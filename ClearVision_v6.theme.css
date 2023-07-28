@@ -41,8 +41,8 @@
   --background-shading: 50%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://i.imgur.com/nWdce5w.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
-  --background-position: fit; /* app background position [default: center] */
-  --background-size: cover; /* app background size [default: cover] */
+  --background-position: center; /* app background position [default: center] */
+  --background-size: fit; /* app background size [default: cover] */
   --background-repeat: repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
   --background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
